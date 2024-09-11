@@ -1,1 +1,2 @@
 folder file content
+more content for the folder file
